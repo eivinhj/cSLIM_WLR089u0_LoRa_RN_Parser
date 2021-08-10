@@ -2,6 +2,8 @@ This application is based on the LoRaWAN RN Parser by Microchip: https://github.
 
 Tested with LoRaWAN Core 1.0.2
 
+Program using Microchip Studio and Atmel ICE
+
 Join OTAA:
 > mac reset 868 (for EU)
 ok
